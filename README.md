@@ -45,7 +45,7 @@ uv run pytest
 
 ## Artículos interesantes
 
-- [Presentación uv](https://anahi-am.github.io/uv-guide/)
+- [Presentación uv](https://www.figma.com/deck/WAdxKDDyU1JbyepmW0uxL3)
 - [uv — Repositorio oficial](https://github.com/astral-sh/uv) — El código fuente y la documentación completa de uv, por Astral. Buena referencia para funcionalidades avanzadas, changelogs y benchmarks.
 - [Python dependencies with uv](https://vladfilippov.com/python-dependencies-with-uv/) — Guía práctica del flujo de trabajo diario con uv, que cubre desde añadir dependencias hasta integración con CI/CD y despliegue.
 - [uv: A Guide to Python Package Management](https://flocode.substack.com/p/044-python-environments-again-uv) — Introducción a uv para principiantes orientada a flujos de trabajo de datos e ingeniería, con foco en VS Code y Jupyter Notebooks.
